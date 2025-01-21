@@ -22,3 +22,9 @@ It also allows for the quick removal of outdated drivers and applications. A spe
 - **Windows Updates and Feature Management** 🔧
 - **Temporary/Unnecessary File Cleanup** (with detailed descriptions of what will be deleted) 📂
 - **And much more!** 🌟
+
+# How to Install?
+
+1. Enter to "Releases"
+2. Download "dism.rar"
+3. Launch "Dism++ARM/Dism++x64/Dism++x86"
